@@ -1,0 +1,3 @@
+[submodule "42_Libft"]
+	path = 42_Libft
+	url = https://github.com/gcssilva/42_Libft
